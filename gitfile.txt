@@ -1,0 +1,11 @@
+download git exe file and install
+after go to command promt
+C:\Users\Manu123>git config --global user.name 'manasa'
+
+C:\Users\Manu123>git config --global user.email 'manasa67@gmail.com'
+
+C:\Users\Manu123>mkdir gitstuff
+
+C:\Users\Manu123>cd gitstuff
+
+C:\Users\Manu123\gitstuff>git init
